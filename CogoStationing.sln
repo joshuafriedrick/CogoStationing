@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CogoStationing", "CogoStationing\CogoStationing.csproj", "{B89E6A24-359F-4AD5-B238-7D8E90B7DE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89E6A24-359F-4AD5-B238-7D8E90B7DE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89E6A24-359F-4AD5-B238-7D8E90B7DE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89E6A24-359F-4AD5-B238-7D8E90B7DE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89E6A24-359F-4AD5-B238-7D8E90B7DE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1761CA-3E71-406F-B48A-33F8B7373836}
+	EndGlobalSection
+EndGlobal
